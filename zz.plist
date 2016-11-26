@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://m.xy383.com/download/xydw_1_7.ipa</string>
+					<string>http://m.jyljjx.cn/zz.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download.fuguileyuan.com/Images/dw.png</string>
+					<string>http://m.jyljjx.cn/dw.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download.fuguileyuan.com/Images/dw.png</string>
+					<string>http://m.jyljjx.cn/dw.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kyy.jieji</string>
+				<string>com.sunnyblake.test.ai20161109</string>
 				<key>bundle-version</key>
-				<string>20</string>
+				<string>3.4.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>xydw8</string>
+				<string>zzyl</string>
 			</dict>
 		</dict>
 	</array>
